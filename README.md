@@ -1,7 +1,7 @@
 **Week 1 Challenge**
 
 <ul>
-  <li>The motivation for this project involves the refactoring of samle HTML and CSS code in order to make the code more semantic.</li>
+  <li>The motivation for this project involves the refactoring of sample HTML and CSS code in order to make the code more semantic and the website more accessible</li>
   <li>Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")</li>
 </ul>
   
