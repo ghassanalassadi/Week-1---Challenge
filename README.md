@@ -18,3 +18,4 @@ List of Changes Made:
 To run the project, simply click this link (add link here).
 
 <h2>Screenshot of Website</h2>
+<img src="assets/images/main-page.png">
