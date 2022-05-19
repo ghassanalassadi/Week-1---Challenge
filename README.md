@@ -6,6 +6,7 @@ The motivation for this project involves the refactoring of sample HTML and CSS 
 <h2>Changes in Code</h2>
 List of Changes Made:
 <ul>
+  <li>Added alts for the images.</li>
   <li>Increased font size for all paragraphs for easier reading.</li>
   <li>Added link for "Search Engine Optimization" on the webpage.</li>
   <li>In CSS, combined cases where multiple classes that use the same attributes to share the same set of rules.</li>
