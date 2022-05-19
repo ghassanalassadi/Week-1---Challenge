@@ -85,47 +85,6 @@ p {
     font-size: 20px;
 }
 
-/*
-  Benefits div attributes
-*/
-
-.benefits {
-    /* Sets the attributes for the benefits division on the webpage */
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
-    /* Sets how much of the body the benefits division will take and its colour */
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
-    /*Sets display type to block, the max width and margin of all icons*/
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
-    /* Positions the heading and sets the font size */
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 /* 
     Contents div attributes
 */
@@ -177,6 +136,47 @@ p {
 }
 
 /*
+  Benefits div attributes
+*/
+
+.benefits {
+    /* Sets the attributes for the benefits division on the webpage */
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
+    /* Sets how much of the body the benefits division will take and its colour */
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
+    /*Sets display type to block, the max width and margin of all icons*/
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
+    /* Positions the heading and sets the font size */
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*
     Hero div attributes
 */
 
@@ -189,5 +189,3 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-
