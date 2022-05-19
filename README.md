@@ -15,7 +15,7 @@ List of Changes Made:
 </ul>
 
 <h2>How to Run the Project</h2>
-To run the project, simply click this link (add link here).
+To run the project, simply click this <a href="https://ghassanalassadi.github.io/Week-1---Challenge/">link</a>.
 
 <h2>Screenshot of Website</h2>
 <img src="assets/images/main-page.png">
